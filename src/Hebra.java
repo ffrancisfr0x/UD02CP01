@@ -1,4 +1,4 @@
-public class Hebra extends  Thread{
+public class Hebra extends Thread{
     private final char c;
     private final int veces;
 
